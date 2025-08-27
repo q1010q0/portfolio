@@ -105,7 +105,7 @@ portfolio/
 1. Clone the repository:
    ```bash
    git clone 
-   cd portfolio
+   cd portfolio https://github.com/q1010q0/portfolio
 
 2. Open index.html directly in your browser
     or run with a local server (e.g. Live Server in VSCode).
